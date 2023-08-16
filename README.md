@@ -1,2 +1,2 @@
 # project_exercise
-Here I start learning create a repository for my github 
+Here I start learning to create a repository for my github 
